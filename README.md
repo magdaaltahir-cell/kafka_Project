@@ -28,3 +28,6 @@ This project implements a real-time data pipeline using Kafka, MongoDB, and Stre
 - Kafka
 - MongoDB
 - Streamlit
+
+- ## Dashboard Preview
+- ![Dashboard](dashboard.jpg)
